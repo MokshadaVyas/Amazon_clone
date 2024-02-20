@@ -1,4 +1,2 @@
-# myfirst
-<br>
-my name is mokshada
-</br> 
+# Amazon clone 
+I've created an Amazon clone using HTML and CSS.
